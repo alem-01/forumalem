@@ -71,7 +71,7 @@ ___
 
 ## Условия участия
 
-1. Делаете pull request в файл `participants.md`
+1. Делаете pull request в файл [participants.md](https://github.com/alem-01/forumalem/edit/master/participants.md)
 2. Добавляете новую линию следующим форматом:
 ```sh
 https://git.01.alem.school/atlekbai/forum - atlekbai, Adilyam, Zulbukharov, sakenism
